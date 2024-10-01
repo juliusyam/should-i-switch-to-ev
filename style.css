@@ -3,8 +3,8 @@ html, body, h1, h2, h3, h4, h5, h6, div, section, p, span, button {
 }
 
 body {
-    width: 100%;
-    height: 100vh;
+    width: var(--vw, 100%);
+    height: var(--vh, 100%);
     background: linear-gradient(135deg, #c3da68, #69aaac);
     margin: 0;
     display: grid;
@@ -56,6 +56,7 @@ button {
     cursor: pointer;
     transition: all 0.3s linear;
     font-size: 0.75rem;
+    color: black;
 }
 
 button:hover {
