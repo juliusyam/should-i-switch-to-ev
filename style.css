@@ -71,14 +71,14 @@ button:hover {
     }
 }
 
-@media (max-width: 640px) {
+@media (max-width: 950px) {
     h1 {
         font-size: 3rem;
         word-break: break-word;
     }
 }
 
-@media (max-width: 400px) or (max-height: 500px) {
+@media (max-width: 500px) or (max-height: 500px) {
     h1 {
         font-size: 2rem;
     }
