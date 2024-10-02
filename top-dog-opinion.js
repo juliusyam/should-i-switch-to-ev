@@ -34,7 +34,7 @@ const opinions = [
   'Yes because loosing charge whilst parked is such a quality achievement',
   'Trust me, you will look back at your life and wish you had a Mustang',
   'It\'s only a phase, go sleep on it and ignore your temptations',
-  'Do you want to loose 30k in depreciation on day 1?!',
+  'Do you want to loose 30k from depreciation on day 1?!',
   'Tell you girlfriend you\'ve officially given up',
   'Go live life! Get a Mustang!',
   'The date will go well until you say I drive a Renault Zoe',
