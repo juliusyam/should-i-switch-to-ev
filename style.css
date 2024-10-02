@@ -64,14 +64,21 @@ button:hover {
     color: white;
 }
 
-@media (max-width: 639px) {
+@media (max-height: 850px) and (max-width: 1350px) {
     h1 {
         font-size: 3rem;
         word-break: break-word;
     }
 }
 
-@media (max-width: 400px) {
+@media (max-width: 640px) {
+    h1 {
+        font-size: 3rem;
+        word-break: break-word;
+    }
+}
+
+@media (max-width: 400px) or (max-height: 500px) {
     h1 {
         font-size: 2rem;
     }
